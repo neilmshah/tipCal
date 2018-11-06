@@ -5,24 +5,21 @@
 
 Submitted by: **Neil Shah**
 
-Time spent: **5** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [done] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+- [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ done] Settings page to change the default tip percentage.
+- [x] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
@@ -35,7 +32,7 @@ There were instances where I would get compile errors stating “'NSUnknownKeyEx
 
 ## License
 
-Copyright [Neil Shah] [name of copyright owner]
+Copyright [2018][Neil Shah]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
