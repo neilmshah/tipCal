@@ -26,10 +26,6 @@ The following **optional** features are implemented:
 <img src='https://i.imgur.com/f4F6Tzs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-## Notes
-
-There were instances where I would get compile errors stating “'NSUnknownKeyException', reason: … this class is not key value coding-compliant for the key X”. I think these occured when I would drag+drop an outlet or action onto my code window and then decide to delete it from my code window. Still not sure why the errors came up and the correct way to solve them. I would have to delete the element from my view, re-add it and type the code again for it to compile properly. 
-
 ## License
 
 Copyright [2018][Neil Shah]
